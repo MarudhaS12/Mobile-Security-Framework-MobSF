@@ -56,7 +56,7 @@ six = ">=1.16.0"
 python3-saml = "^1.16.0"
 bcrypt = "4.0.1" # Remove this in mitmproxy 12
 psycopg2-binary = "^2.9.10"
-lief = "^0.15.1"
+lief = ">=0.15.1,<0.18.0"
 packaging = ">=24.2"
 django-ratelimit = "^4.1.0"
 django-q2 = "^1.7.4"
